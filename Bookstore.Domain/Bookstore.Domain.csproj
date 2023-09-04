@@ -7,12 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\Repositories\" />
     <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
   </ItemGroup>
 
 </Project>
